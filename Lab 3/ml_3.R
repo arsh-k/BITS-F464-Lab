@@ -82,6 +82,3 @@ svd.matrix <- u.mat %*% r %*% t(v.mat)
 svd.matrix
 
 d01.svd = svd(d01)
-
-
-
